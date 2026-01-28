@@ -9,16 +9,14 @@ We run the project on:
 
 #### **Step 1.** Clone and install requirements
 * Clone this repo:
----
+```
 git clone https://github.com/zalzakarima/Multi-Dilated-Fourier-Autoformer.git
 cd Multi-Dilated-Fourier-Autoformer
 ```
-
 * Create a new virtual environment using Conda or virtualenv. 
 ```
 conda create --name <envname> python=3.10
 ```
-
 * Activate the environment and install the requirements:
 ```
 conda activate <envname>
